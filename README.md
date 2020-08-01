@@ -15,7 +15,7 @@
 
 -- add these
 #THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
-[[ -s "/usr/local/bin/sdkman-init.sh" ]] && source "/usr/local/bin/sdkman-init.sh"
+[[ -s "/usr/local/sdkman/bin/sdkman-init.sh" ]] && source "/usr/local/sdkman/bin/sdkman-init.sh"
 
 -- apply changes
 # source /etc/profile
